@@ -25,8 +25,7 @@ The Transport for London (TfL) app is a Kotlin-based Android application built w
 
 The Tube name, and corresponding service detail is merged using merge-descendants semantics, for better accessibility.
 
-￼
-
+￼<img width="179" alt="Screenshot 2023-09-06 at 10 51 24" src="https://github.com/DarsanaBoraian/TFLApp/assets/129121551/af43fb3f-bae0-416d-a3b4-865d82086d34">
 
 ## Technologies
 
@@ -48,4 +47,4 @@ Follow these steps to install and run the Transport for London app on your Andro
 
 **Clone the repository:**
 
-   git clone https://github.com/yourusername/transport-for-london-app.git
+   git clone [https://github.com/yourusername/transport-for-london-app.git](https://github.com/DarsanaBoraian/TFLApp.git)https://github.com/DarsanaBoraian/TFLApp.git
