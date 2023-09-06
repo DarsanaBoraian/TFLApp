@@ -1,4 +1,4 @@
-# Transport for London App - TFL Api - Coding Challenge ![brand](https://github.com/DarsanaBoraian/TFLApp/assets/129121551/f0ce202c-4d30-4294-98c2-52360d7ebc42) 
+# [Transport for London App - TFL REST Api - Coding Challenge](http://api.tfl.gov.uk/Line/Mode/Tube/Status) ![brand](https://github.com/DarsanaBoraian/TFLApp/assets/129121551/f0ce202c-4d30-4294-98c2-52360d7ebc42) 
 
 
 The Transport for London (TfL) app is a Kotlin-based Android application built with Jetpack Compose. The information is obtained through TFL Restful API, and consumed through Retrofit - for Dependency Injection. This app provides information about live updates on services of London's tube transportation system.
